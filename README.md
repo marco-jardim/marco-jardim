@@ -35,6 +35,12 @@ I'm not a rule maker, I'm a rule breaker. Brazil-based engineer doing hard infra
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=111111)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=111111)
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=marco-jardim&theme=onedark&row=1&column=7&no-frame=true&margin-w=8" alt="Trophies"/>
+  </a>
+</p>
+
 ---
 
 ## GitHub Stats
@@ -55,6 +61,18 @@ I'm not a rule maker, I'm a rule breaker. Brazil-based engineer doing hard infra
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marco-jardim&theme=redical&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marco-jardim/marco-jardim/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marco-jardim/marco-jardim/output/github-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/marco-jardim/marco-jardim/output/github-snake.svg"/>
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote"/>
 </p>
 
 ---
