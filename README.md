@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7931A&width=700&lines=I%27m+not+a+rule+maker%2C+I%27m+a+rule+breaker;I+break+protocol+boundaries;From+Bitcoin+to+LLMs%2C+I+ship+production-grade+systems;Open+protocol+hacker+for+the+AI+era)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7931A&width=700&lines=I%27m+not+a+rule+maker%2C+I%27m+a+rule+breaker;I+break+protocol+boundaries;From+Bitcoin+to+LLMs%2C+I+ship+superb+software;Open+protocol+hacker+for+the+AI+era)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:github@tormenta.work">
