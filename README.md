@@ -40,8 +40,13 @@ I'm not a rule maker, I'm a rule breaker. Brazil-based engineer doing hard infra
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marco-jardim&theme=radical" alt="Marco's GitHub Stats" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marco-jardim&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marco-jardim&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marco-jardim&theme=radical" alt="Repos per Language" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marco-jardim&theme=radical" alt="Most Commit Language" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marco-jardim&theme=radical&utcOffset=-3" alt="Productive Time" height="165"/>
 </p>
 
 <p align="center">
