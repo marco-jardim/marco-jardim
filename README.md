@@ -34,8 +34,8 @@ I'm not a rule maker, I'm a rule breaker. Brazil-based engineer doing hard infra
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marco-jardim&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Marco's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-jardim&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marco-jardim&theme=radical" alt="Marco's GitHub Stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marco-jardim&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
