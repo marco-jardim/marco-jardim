@@ -35,15 +35,14 @@ I'm not a rule maker, I'm a rule breaker. Brazil-based engineer doing hard infra
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=111111)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=111111)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=marco-jardim&theme=onedark&row=1&column=7&no-frame=true&margin-w=8" alt="Trophies"/>
-  </a>
-</p>
-
 ---
 
 ## GitHub Stats
+
+<p align="center">
+  <img src="./metrics.svg" alt="Metrics"/>
+</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marco-jardim&theme=radical" alt="GitHub Stats" height="165"/>
