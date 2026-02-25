@@ -91,6 +91,7 @@ Techniques explored: SMOTE / ADASYN / BorderlineSMOTE, threshold optimization, s
 
 ## Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mjardim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](https://www.linkedin.com/in/mjardim/)
 [![Email](https://img.shields.io/badge/Email-github%40tormenta.work-F7931A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111)](mailto:github@tormenta.work)
 [![GitHub](https://img.shields.io/badge/GitHub-marco--jardim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marco-jardim)
 
