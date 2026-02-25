@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.demolab.com/?lines=This+image+is+center-aligned&font=Fira%20Code&center=true&width=380&height=50](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7931A&width=750&lines=I%27m+not+a+rule+maker%2C+I%27m+a+rule+breaker;I+break+protocol+boundaries;From+Bitcoin+to+LLMs%2C+I+ship+superb+software;Open+protocol+hacker+for+the+AI+era)"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=This+image+is+center-aligned&font=Fira%20Code&center=true&width=380&height=50](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7931A&width=750&lines=I%27m+not+a+rule+maker%2C+I%27m+a+rule+breaker;I+break+protocol+boundaries;From+Bitcoin+to+LLMs%2C+I+ship+superb+software;Open+protocol+hacker+for+the+AI+era"/></a>
 </p>
 
 <p align="center">
