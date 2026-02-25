@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7931A&width=700&lines=I%27m+not+a+rule+maker%2C+I%27m+a+rule+breaker;I+break+protocol+boundaries+to+build+real+tools;From+Bitcoin+to+LLMs%2C+I+ship+production-grade+systems;Brazil-based+open+protocol+hacker+for+the+AI+era)](https://git.io/typing-svg)
 
+<p align="center">
+  <a href="mailto:github@tormenta.work">
+    <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Available%20for%20hire-2ea44f?style=for-the-badge&labelColor=111111" alt="Open to Work"/>
+  </a>
+</p>
+
 ## Marco Jardim
 
 I'm not a rule maker, I'm a rule breaker. Brazil-based engineer doing hard infrastructure work across AI, crypto, and data tooling — with a strong bias for practical systems over hype. Since 2011, my work has moved from web and data products into protocol depth and agent ecosystems, keeping reliability, transparency, and developer control at the center.
@@ -48,6 +54,29 @@ I'm not a rule maker, I'm a rule breaker. Brazil-based engineer doing hard infra
 
 ---
 
+## PhD Research
+
+> Applying ML to hard, real-world data problems in Brazilian public health.
+
+**Maximizing Recall or Precision: ML Approaches for Record Linkage between SIM and SINAN-TB**
+
+Probabilistic record linkage between two Brazilian federal health databases — **SIM** (national mortality system) and **SINAN-TB** (tuberculosis notification system) — under severe class imbalance (~0.4% true pairs). The goal: identify TB patients who died, without missing cases and without flooding epidemiologists with false positives.
+
+**Key findings:**
+
+| Approach | Precision | Recall | F1 |
+|---|---|---|---|
+| Random Forest + SMOTE | 0.89 | 0.99 | **0.94** |
+| Gradient Boosting | **0.94** | 0.97 | 0.95 |
+| Stacking Ensemble | 0.85 | **1.00** | 0.92 |
+
+Techniques explored: SMOTE / ADASYN / BorderlineSMOTE, threshold optimization, soft-voting ensembles, stacking, isotonic probability calibration, business rules pre-filtering.
+
+[![PhD Research](https://img.shields.io/badge/Repo-phd--research-6A2C91?style=for-the-badge&logo=github&logoColor=white&labelColor=111111)](https://github.com/marco-jardim/phd-research)
+[![Record Linkage Toolkit](https://img.shields.io/badge/Repo-gzcmd--record--linkage-F7931A?style=for-the-badge&logo=github&logoColor=white&labelColor=111111)](https://github.com/marco-jardim/gzcmd-record-linkage)
+
+---
+
 ## Featured Projects
 
 | Project | Description |
@@ -56,7 +85,6 @@ I'm not a rule maker, I'm a rule breaker. Brazil-based engineer doing hard infra
 | [mcp_trunc_proxy](https://github.com/marco-jardim/mcp_trunc_proxy) | Generic stdio MCP truncation proxy — resilient context management for AI agents |
 | [mcp-windows-clipboard](https://github.com/marco-jardim/mcp-windows-clipboard) | MCP server for native Windows clipboard access with full image support |
 | [citadel-runtime](https://github.com/marco-jardim/citadel-runtime) | Bitcoin, Lightning & RGB wallet runtime — Taproot, miniscript, multisig, PSBTs |
-| [gzcmd-record-linkage](https://github.com/marco-jardim/gzcmd-record-linkage) | Record linkage toolkit for Brazilian public health surveillance (SINAN-TB) |
 | [ultra-reader](https://github.com/marco-jardim/ultra-reader) | Production-grade web scraping engine built for LLMs |
 
 ---
